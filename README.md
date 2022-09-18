@@ -18,9 +18,23 @@ Momaizer is a is an automatic meeting transcription system with real-time recogn
 1. Download [Visual Studio Code](https://code.visualstudio.com) and install [Teams Toolkit Visual Studio Code Extension](https://aka.ms/teams-toolkit).
 1. Open the project in Visual Studio Code.
 1. Once deployment is completed, you can preview the app running in Azure. In Visual Studio Code, open `Run and Debug` and select `Launch Remote (Edge)` or `Launch Remote (Chrome)` in the dropdown list and Press `F5` or green arrow button to open a browser.
+1. Add to the teams local
 
 ![1](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/1.jpg)
 
+
+## Run the Momaizer Teams App
+1. Once any meeting over open it in teams
+2. Copy the meeting url and download the meeting transcript(optional)
+3. Send the link to the Momaizer
+
+![2](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/2.jpg)
+
+![3](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/3.jpg)
+![4](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/5.jpg)
+
+Copy the message into the Transformater(Transcript formatter) folder as below
+![5](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/5.jpg)
 
 ## License
 
