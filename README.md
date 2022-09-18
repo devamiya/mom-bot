@@ -31,10 +31,32 @@ Momaizer is a is an automatic meeting transcription system with real-time recogn
 ![2](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/2.jpg)
 
 ![3](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/3.jpg)
-![4](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/5.jpg)
+![4](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/4.jpg)
 
 Copy the message into the Transformater(Transcript formatter) folder as below
 ![5](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/5.jpg)
+
+Then move to the copy ``TransFormer folder`` and run the below command
+ ```sh
+    npm install
+    node index.js
+```
+It will generate the formatted text for the summarization 
+![6](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/6.jpg)
+
+
+Then run the ``summarizer.py`` to generate the summary of the transcript
+![7](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/7.jpg)
+
+Once the summary generated the bot will pick the details and notify in the Momaizer
+
+Just run the post request ``http://localhost:3978/api/notification``
+![8](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/8.jpg)
+
+
+Finally the meeting summary will be shown as below
+![9](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/9.jpg)
+
 
 ## License
 
