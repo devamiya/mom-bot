@@ -59,6 +59,9 @@ Just run the post request ``http://localhost:3978/api/notification``
 Finally the meeting summary will be shown as below
 ![9](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/9.jpg)
 
+Also the Email, Issue and Task can be created directly with one click
+![10](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/10.jpg)
+
 
 ## License
 
