@@ -2,7 +2,7 @@
 # Momaizer
 #### MoM Summarizer
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
 Momaizer is a is an automatic meeting transcription system with real-time recognition and summarization capabilities. 
 
@@ -61,6 +61,17 @@ Finally the meeting summary will be shown as below
 
 Also the Email, Issue and Task can be created directly with one click
 ![10](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/10.jpg)
+
+## Team - Code Raiders
+1. Amiya Panigrahi
+1. Priyanka Tomar
+1. Anita Naikwadi
+1. Saksham Taletia
+1. Vishal Patil
+
+## #CoPBrainTrickler #2022
+
+
 
 
 ## License
