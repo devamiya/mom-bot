@@ -44,10 +44,10 @@ Then move to the  ``TransFormater folder`` and run the below command
 It will generate the formatted text for the summarization 
 ![6](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/6.jpg)
 
-Original Trasncript file looks like as below
+Original Transcript file looks like as below
 ![31](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/31.jpg)
 
-Then run the ``summarizer.py`` to generate the summary of the transcript
+Then run the ``summarizer.py`` to generate the summary of the transcript [link to colab](https://colab.research.google.com/drive/17yRBgS82DWtEEz_aE22Iw51UHQuael8A#scrollTo=kBvGuslhUEYJ)
 ![7](https://github.com/devamiya/mom-bot/blob/main/Momaizer/images/7.jpg)
 
 Once the summary generated the bot will pick the details and notify in the Momaizer
